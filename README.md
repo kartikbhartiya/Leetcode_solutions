@@ -40,17 +40,19 @@ Every solution includes:
 ## ⚒️ Tools Used
 
 - Language: C (compiled using `gcc`)
-- Editor: VSCode / Sublime / Whatever doesn’t crash
+- Editor: VSCode 
 - Platform: [LeetCode](https://leetcode.com/)
 
 ---
 
 ## 🗓️ Progress Tracker
 
-| Date       | Problem Name         | Difficulty | Status  |
-|------------|----------------------|------------|---------|
-| 2025-06-07 | Pallindrome number             | Easy       | ✅ Done |
-| ...        | ...                  | ...        | ...     |
+| Date       | LC #   | Problem Name           | Difficulty | Status    |
+|------------|--------|------------------------|------------|-----------|
+| 2025-06-07 | 9      | Palindrome Number      | Easy       | ✅ Done   |
+| 2025-06-07 | 1006   | Clumsy Factorial       | Medium     | ✅ Done   |
+| 2025-06-08 | 367    | Valid Perfect Square   | Easy       | 🔄 In Progress |
+| …          | …      | …                      | …          | …         |
 
 ---
 
