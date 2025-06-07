@@ -50,7 +50,6 @@ Every solution includes:
 | Date       | Problem Name         | Difficulty | Status  |
 |------------|----------------------|------------|---------|
 | 2025-06-07 | Pallindrome number             | Easy       | ✅ Done |
-| 2025-06-07 | Reverse Integer      | Medium     | 🔄 In Progress |
 | ...        | ...                  | ...        | ...     |
 
 ---
@@ -65,7 +64,7 @@ PRs are welcome if you want to improve something or add alternate solutions.
 ## 📫 Contact
 
 - 📧 Email: kartikbhartiya613@gmail.com
-- 🧠 LeetCode: [your_username](https://leetcode.com/kartikbhartiya/)
+- 🧠 LeetCode: [kartikbhartiya](https://leetcode.com/kartikbhartiya/)
 
 ---
 
