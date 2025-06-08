@@ -52,6 +52,7 @@ Every solution includes:
 | 2025-06-07 | 9      | Palindrome Number      | Easy       | ✅ Done   |
 | 2025-06-07 | 1006   | Clumsy Factorial       | Medium     | ✅ Done   |
 | 2025-06-08 | 69    | Sqrt(x)   | Easy       | ✅ Done   |
+| 2025-06-09 | 1    | Two Sum   | Easy       | ✅ Done   |
 | …          | …      | …                      | …          | …         |
 
 ---
