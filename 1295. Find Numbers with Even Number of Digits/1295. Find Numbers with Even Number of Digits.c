@@ -19,3 +19,12 @@ int findNumbers(int* arr, int numsSize) {
     }
     return output;
 }
+
+
+
+
+
+
+
+
+//both have 0ms of runtime
