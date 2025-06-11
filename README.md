@@ -4,7 +4,39 @@
   Example: `two-sum.c`, `reverse-linked-list.c`
 
 ---
+<h1 align="center">🚀 Leetcode & GitHub Stats</h1>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/kartikbhartiya?ext=activity" alt="LeetCode Stats" />
+</p>
+
+---
+
+## ⚡ Current Statistics
+
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=kartikbhartiya&show_icons=true&theme=tokyonight" />
+  <img height="170px" src="https://streak-stats.demolab.com/?user=kartikbhartiya&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikbhartiya&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧪 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikbhartiya&theme=tokyonight" />
+</p>
+
+
+---
 ## 🧠 Solution Format
 
 Every solution includes:
@@ -45,21 +77,6 @@ Every solution includes:
 
 ---
 
-## 🗓️ Progress Tracker
-
-| Date       | LC #   | Problem Name           | Difficulty | Status    |
-|------------|--------|------------------------|------------|-----------|
-| 2025-06-07 | 9      | Palindrome Number      | Easy       | ✅ Done   |
-| 2025-06-07 | 1006   | Clumsy Factorial       | Medium     | ✅ Done   |
-| 2025-06-08 | 69    | Sqrt(x)   | Easy       | ✅ Done   |
-| 2025-06-09 | 1    | Two Sum   | Easy       | ✅ Done   |
-| 2025-06-09 | 367    | Valid Perfect Square   | Easy       | ✅ Done   |
-| 2025-06-09 | 509    |  Fibonacci Number   | Easy       | ✅ Done   |
-| 2025-06-09 | 263    |  Ugly Number   | Easy       | ✅ Done   |
-| …          | …      | …                      | …          | …         |
-
----
-
 ## 🙌 Contributions
 
 This is my personal repo, but feel free to fork and explore!  
@@ -74,5 +91,3 @@ PRs are welcome if you want to improve something or add alternate solutions.
 
 ---
 
-> “Code until pointers make sense… then debug until they don’t.”  
-> — Some C god probably
