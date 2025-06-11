@@ -12,7 +12,7 @@
 
 ---
 
-## ⚡ Current Statistics
+## ⚡ Current Statistics ⚡
 
 <p align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=kartikbhartiya&show_icons=true&theme=tokyonight" />
