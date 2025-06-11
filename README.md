@@ -4,35 +4,10 @@
   Example: `two-sum.c`, `reverse-linked-list.c`
 
 ---
-<h1 align="center">🚀 Leetcode & GitHub Stats</h1>
+<h1 align="center">🚀 Leetcode Stats</h1>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/kartikbhartiya?ext=activity" alt="LeetCode Stats" />
-</p>
-
----
-
-## ⚡ Current Statistics ⚡
-
-<p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=kartikbhartiya&show_icons=true&theme=tokyonight" />
-  <img height="170px" src="https://streak-stats.demolab.com/?user=kartikbhartiya&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikbhartiya&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🧪 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikbhartiya&theme=tokyonight" />
 </p>
 
 
