@@ -12,6 +12,27 @@
 
 
 ---
+## 📘 LeetCode C Solutions Summary
+
+| #    | Problem Name                                  | Level    |
+|------|-----------------------------------------------|----------|
+| 1    | Two Sum                                       | Easy     |
+| 9    | Palindrome                                    | Easy     |
+| 15   | 3Sum                                          | Medium   |
+| 69   | Sqrt(x)                                       | Easy     |
+| 167  | Two Sum II - Input Array Is Sorted            | Medium     |
+| 231  | Power of Two                                  | Easy     |
+| 263  | Ugly Number                                   | Easy     |
+| 367  | Valid Perfect Square                          | Easy     |
+| 509  | Fibonacci Number                              | Easy     |
+| 1006 | Clumsy Factorial                              | Medium   |
+| 1295 | Find Numbers with Even Number of Digits       | Easy     |
+| 1323| Maximum 69 Number                              | Easy     |
+| 2180 | Count Integers With Even Digit Sum            | Easy     |
+| 2469 | Convert The Temperature                       | Easy     |
+| 3099 | Harshad Number                                | Easy     |
+
+---
 ## 🧠 Solution Format
 
 Every solution includes:
