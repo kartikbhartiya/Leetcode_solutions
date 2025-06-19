@@ -32,6 +32,7 @@
 | 2469 | Convert The Temperature                       | Easy     |
 | 3099 | Harshad Number                                | Easy     |
 | 11 | Container With Most Water                       | Medium     |
+| 4 | Median of Sorted Array                           | Hard     |
 
 ---
 ## 🧠 Solution Format
